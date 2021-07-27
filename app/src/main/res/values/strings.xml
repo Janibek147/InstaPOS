@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">InstaPOS</string>
+    <string name="sign_in">sign in</string>
+    <string name="register">register</string>
+    <string name="confirm_your_password">confirm your password</string>
+    <string name="input_your_password">input your password</string>
+    <string name="input_your_email">input your email</string>
+    <string name="fill_the_field">fill the field</string>
+    <string name="password_not_match">password not match</string>
+    <string name="email">billGates.@gmail.com</string>
+    <string name="posts">Публикации</string>
+    <string name="followers">Подписчики</string>
+    <string name="following">Подписки</string>
+    <string name="edit">Редактировать профиль</string>
+    <string name="followerscount">1K</string>
+    <string name="followingcount">150</string>
+    <string name="edit_title">Редактировать профиль</string>
+    <string name="edit_profile_image">Изменить фото профиля</string>
+    <string name="write_decription">Write a descroption of post</string>
+    <string name="send_post">Send a post</string>
+    <string name="tvName">Имя</string>
+    <string name="tvUserName">Имя пользователя</string>
 </resources>
